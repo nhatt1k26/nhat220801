@@ -1,1 +1,1 @@
-print("hello","respo moi ne")s
+print("hello")
